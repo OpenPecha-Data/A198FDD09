@@ -1,0 +1,61 @@
+segment_sources:
+  P8DB72CB4:
+    type: origin_type
+    relation: translation
+    language: en
+  P2DB547B1:
+    type: origin_type
+    relation: translation
+    language: de
+  PA7803B1A:
+    type: origin_type
+    relation: translation
+    language: es
+  PAF8E5484:
+    type: origin_type
+    relation: translation
+    language: fr
+  P4A0CA426:
+    type: origin_type
+    relation: translation
+    language: zh
+  PFF2B4F06:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  633a0f731dda4150a03b8c58fafb5100:
+    P8DB72CB4: 1aeb5e0331fe4a7ba667832b223d5685
+    P2DB547B1: bdef47365ba841d392bec5109a80579d
+    PA7803B1A: 39ae822b092c4fabadcb5e4c08e31574
+    PAF8E5484: d2c4d48321e04c7aae429a575a0e3acd
+    P4A0CA426: 3406f0dfa02d4fb882d8ff177191fde9
+    PFF2B4F06: 2ec8d2a5688a48d3aa3fea36d31e4550
+  775be06d38884213a6ad12609c1c9b25:
+    P8DB72CB4: 62ec698f7d4d469a8ac36bc3d9ddbc51
+    P2DB547B1: 025281d23b7d4dbb9f873f1669ba7e7c
+    PA7803B1A: 27bb8f8e42b94128a4886f3b286b7601
+    PAF8E5484: 61ffc2f70f884a6d839f19c38714ccc8
+    P4A0CA426: 8358782ac0994f33a032506babf86121
+    PFF2B4F06: 0ae0d7cfeadf47e9b8590729d387e66f
+  ac9e30f101d64207b858f6d50a102db9:
+    P8DB72CB4: b337f03dcd394ea498bfe961234aaae4
+    P2DB547B1: 425a63b61d3b477bbce5f70825dcbfcf
+    PA7803B1A: ede4b74edb354ce8b678b0a669c97caf
+    PAF8E5484: 6288b6322f844c26b1e7e41c5019c9ab
+    P4A0CA426: f9f6a162cf9640a9b0b4fa1c466633e6
+    PFF2B4F06: 6c5db408cbc14f1daf0dd64736722854
+  2d4efda396484716b7ccb6b9ac1b09c7:
+    P8DB72CB4: 60e2d80ec75448468c0262360737e8cf
+    P2DB547B1: 6465d89edf80450ea0a0c69b7d3f0987
+    PA7803B1A: d36006d9f9084c3b8ec616cc0d7fd736
+    PAF8E5484: 2c663808a0c7470aaf4da5d7efef2574
+    P4A0CA426: 6edfd8426258411e80a16402d9334bb1
+    PFF2B4F06: 4fcab332a3df4a3180c1f9c926c5cd73
+  f569b57486e2452cbded41d3407e8a56:
+    P8DB72CB4: feb1ddbb8a2f49758bfeea6c0aeef708
+    P2DB547B1: 1fbcf635fba245e79d55d799af1b3343
+    PA7803B1A: 936833a7ed294e8a85a8939bb55fe000
+    PAF8E5484: 68fd305f9ff34fb29659fba0e8efc899
+    P4A0CA426: bde9f80ed9f341b8ae6a43608a8b0c31
+    PFF2B4F06: 531d766481b54c9a87874a9f427dcb62

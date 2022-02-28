@@ -1,0 +1,19 @@
+segment_sources:
+  P8DB72CB4:
+    type: origin_type
+    relation: translation
+    language: en
+  PFF2B4F06:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ccd4c2a9244940cea3795dab1a550b03:
+    P8DB72CB4: 90d7d33f5c0d4ca1b2f40e33d1df13af
+    PFF2B4F06: 6d12622a4a3746759be8cd7724829934
+  b210c28709c646ef9f46700f1ccf727c:
+    P8DB72CB4: 4db42bf22f3e4f79bb08becaf1aad89e
+    PFF2B4F06: b1498d9641e941e3b61c8b2efa706fd1
+  596003f92df54ba9afd1c9b324e2f1ee:
+    P8DB72CB4: 764be96644664b03b9f6eb3098669044
+    PFF2B4F06: 11eb186bc16c472a83e5e174eadf70a3
